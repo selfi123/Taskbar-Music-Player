@@ -7,6 +7,10 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT" />
 </p>
 
+<p align="center">
+  <img src="assets/preview.png" alt="Taskbar Music Player Preview" width="850" />
+</p>
+
 A sleek, ultra-lightweight floating music player for Windows that docks right above your taskbar. Built with **WPF (.NET 10)** and powered by **YoutubeExplode**, it lets you browse popular artists, search tracks on YouTube, and stream audio seamlessly in the background without opening heavy browser tabs.
 
 ---
