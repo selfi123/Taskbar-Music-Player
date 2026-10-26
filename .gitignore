@@ -3,6 +3,8 @@
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+release/
+*.zip
 
 ## Visual Studio cache / config
 .vs/
