@@ -1,0 +1,23 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio cache / config
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+## Temporary files & OS files
+*.tmp
+*.temp
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+## TaskbarMusicApp Cache
+TaskbarMusicApp_Cache/
